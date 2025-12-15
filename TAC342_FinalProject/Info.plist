@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Privacy permissions for EventKit (Calendar) -->
+    <key>NSCalendarsUsageDescription</key>
+    <string>TaskTeller needs calendar access to show your events and add tasks to your calendar.</string>
+    
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>TaskTeller needs calendar access to show your events and add tasks to your calendar.</string>
+    
+    <!-- Privacy permissions for Speech Recognition -->
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>TaskTeller uses speech recognition to convert your voice into tasks.</string>
+    
+    <!-- Privacy permissions for Microphone -->
+    <key>NSMicrophoneUsageDescription</key>
+    <string>TaskTeller needs microphone access to record your voice for speech-to-text.</string>
+</dict>
+</plist>
+
