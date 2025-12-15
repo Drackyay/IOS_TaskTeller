@@ -1,13 +1,13 @@
 //
-//  TAC342_FinalProjectUITestsLaunchTests.swift
-//  TAC342_FinalProjectUITests
+//  TaskTellerUITestsLaunchTests.swift
+//  TaskTellerUITests
 //
 //  Created by 魏宏宇 on 12/9/25.
 //
 
 import XCTest
 
-final class TAC342_FinalProjectUITestsLaunchTests: XCTestCase {
+final class TaskTellerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

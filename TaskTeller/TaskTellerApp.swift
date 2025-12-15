@@ -1,6 +1,6 @@
 //
-//  TAC342_FinalProjectApp.swift
-//  TAC342_FinalProject
+//  TaskTellerApp.swift
+//  TaskTeller
 //
 //  TaskTeller - AI Smart Planner
 //  Main app entry point that configures Firebase and manages authentication state
@@ -21,7 +21,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 
 /// Main app structure for TaskTeller
 @main
-struct TAC342_FinalProjectApp: App {
+struct TaskTellerApp: App {
     // Register app delegate for Firebase setup
     @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
     

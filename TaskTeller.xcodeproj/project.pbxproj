@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9AFE7A7B2EE93D6D0049CB65 /* TAC342_FinalProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A7A2EE93D6D0049CB65 /* TAC342_FinalProjectApp.swift */; };
-		9AFE7A8C2EE93D6F0049CB65 /* TAC342_FinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A8B2EE93D6F0049CB65 /* TAC342_FinalProjectTests.swift */; };
-		9AFE7A962EE93D6F0049CB65 /* TAC342_FinalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A952EE93D6F0049CB65 /* TAC342_FinalProjectUITests.swift */; };
-		9AFE7A982EE93D6F0049CB65 /* TAC342_FinalProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A972EE93D6F0049CB65 /* TAC342_FinalProjectUITestsLaunchTests.swift */; };
+		9AFE7A7B2EE93D6D0049CB65 /* TaskTellerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A7A2EE93D6D0049CB65 /* TaskTellerApp.swift */; };
+		9AFE7A8C2EE93D6F0049CB65 /* TaskTellerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A8B2EE93D6F0049CB65 /* TaskTellerTests.swift */; };
+		9AFE7A962EE93D6F0049CB65 /* TaskTellerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A952EE93D6F0049CB65 /* TaskTellerUITests.swift */; };
+		9AFE7A982EE93D6F0049CB65 /* TaskTellerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE7A972EE93D6F0049CB65 /* TaskTellerUITestsLaunchTests.swift */; };
 		9AFE7AAD2EE946D40049CB65 /* Secrets.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9AFE7AA52EE946D40049CB65 /* Secrets.plist */; };
 		9AFE7AB12EE946D40049CB65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AFE7AA92EE946D40049CB65 /* Assets.xcassets */; };
 		9AFE7AB92EE949050049CB65 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9AFE7AB82EE949050049CB65 /* GoogleService-Info.plist */; };
@@ -50,25 +50,25 @@
 			containerPortal = 9AFE7A6F2EE93D6D0049CB65 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9AFE7A762EE93D6D0049CB65;
-			remoteInfo = TAC342_FinalProject;
+			remoteInfo = TaskTeller;
 		};
 		9AFE7A922EE93D6F0049CB65 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9AFE7A6F2EE93D6D0049CB65 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9AFE7A762EE93D6D0049CB65;
-			remoteInfo = TAC342_FinalProject;
+			remoteInfo = TaskTeller;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9AFE7A772EE93D6D0049CB65 /* TAC342_FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TAC342_FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9AFE7A7A2EE93D6D0049CB65 /* TAC342_FinalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAC342_FinalProjectApp.swift; sourceTree = "<group>"; };
-		9AFE7A872EE93D6F0049CB65 /* TAC342_FinalProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TAC342_FinalProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9AFE7A8B2EE93D6F0049CB65 /* TAC342_FinalProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAC342_FinalProjectTests.swift; sourceTree = "<group>"; };
-		9AFE7A912EE93D6F0049CB65 /* TAC342_FinalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TAC342_FinalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9AFE7A952EE93D6F0049CB65 /* TAC342_FinalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAC342_FinalProjectUITests.swift; sourceTree = "<group>"; };
-		9AFE7A972EE93D6F0049CB65 /* TAC342_FinalProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAC342_FinalProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9AFE7A772EE93D6D0049CB65 /* TaskTeller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskTeller.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AFE7A7A2EE93D6D0049CB65 /* TaskTellerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTellerApp.swift; sourceTree = "<group>"; };
+		9AFE7A872EE93D6F0049CB65 /* TaskTellerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskTellerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AFE7A8B2EE93D6F0049CB65 /* TaskTellerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTellerTests.swift; sourceTree = "<group>"; };
+		9AFE7A912EE93D6F0049CB65 /* TaskTellerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskTellerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AFE7A952EE93D6F0049CB65 /* TaskTellerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTellerUITests.swift; sourceTree = "<group>"; };
+		9AFE7A972EE93D6F0049CB65 /* TaskTellerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTellerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9AFE7AA52EE946D40049CB65 /* Secrets.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Secrets.plist; sourceTree = "<group>"; };
 		9AFE7AA92EE946D40049CB65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AFE7AB82EE949050049CB65 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -97,7 +97,7 @@
 		9AFE7B402EE9513B0049CB65 /* EventKitService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventKitService.swift; sourceTree = "<group>"; };
 		9AFE7B412EE9513B0049CB65 /* SpeechService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeechService.swift; sourceTree = "<group>"; };
 		9AFE7B5B2EE952240049CB65 /* OpenAIConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenAIConfig.swift; sourceTree = "<group>"; };
-		9AFE7B5D2EE954C00049CB65 /* TAC342-FinalProject-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "TAC342-FinalProject-Info.plist"; sourceTree = SOURCE_ROOT; };
+		9AFE7B5D2EE954C00049CB65 /* TaskTeller-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "TaskTeller-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,9 +131,9 @@
 		9AFE7A6E2EE93D6D0049CB65 = {
 			isa = PBXGroup;
 			children = (
-				9AFE7A792EE93D6D0049CB65 /* TAC342_FinalProject */,
-				9AFE7A8A2EE93D6F0049CB65 /* TAC342_FinalProjectTests */,
-				9AFE7A942EE93D6F0049CB65 /* TAC342_FinalProjectUITests */,
+				9AFE7A792EE93D6D0049CB65 /* TaskTeller */,
+				9AFE7A8A2EE93D6F0049CB65 /* TaskTellerTests */,
+				9AFE7A942EE93D6F0049CB65 /* TaskTellerUITests */,
 				9AFE7A782EE93D6D0049CB65 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -141,17 +141,17 @@
 		9AFE7A782EE93D6D0049CB65 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9AFE7A772EE93D6D0049CB65 /* TAC342_FinalProject.app */,
-				9AFE7A872EE93D6F0049CB65 /* TAC342_FinalProjectTests.xctest */,
-				9AFE7A912EE93D6F0049CB65 /* TAC342_FinalProjectUITests.xctest */,
+				9AFE7A772EE93D6D0049CB65 /* TaskTeller.app */,
+				9AFE7A872EE93D6F0049CB65 /* TaskTellerTests.xctest */,
+				9AFE7A912EE93D6F0049CB65 /* TaskTellerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9AFE7A792EE93D6D0049CB65 /* TAC342_FinalProject */ = {
+		9AFE7A792EE93D6D0049CB65 /* TaskTeller */ = {
 			isa = PBXGroup;
 			children = (
-				9AFE7B5D2EE954C00049CB65 /* TAC342-FinalProject-Info.plist */,
+				9AFE7B5D2EE954C00049CB65 /* TaskTeller-Info.plist */,
 				9AFE7B5A2EE952240049CB65 /* Config */,
 				9AFE7B2C2EE9513B0049CB65 /* Models */,
 				9AFE7B3C2EE9513B0049CB65 /* Services */,
@@ -161,26 +161,26 @@
 				9AFE7AB82EE949050049CB65 /* GoogleService-Info.plist */,
 				9AFE7AA92EE946D40049CB65 /* Assets.xcassets */,
 				9AFE7AA52EE946D40049CB65 /* Secrets.plist */,
-				9AFE7A7A2EE93D6D0049CB65 /* TAC342_FinalProjectApp.swift */,
+				9AFE7A7A2EE93D6D0049CB65 /* TaskTellerApp.swift */,
 			);
-			path = TAC342_FinalProject;
+			path = TaskTeller;
 			sourceTree = "<group>";
 		};
-		9AFE7A8A2EE93D6F0049CB65 /* TAC342_FinalProjectTests */ = {
+		9AFE7A8A2EE93D6F0049CB65 /* TaskTellerTests */ = {
 			isa = PBXGroup;
 			children = (
-				9AFE7A8B2EE93D6F0049CB65 /* TAC342_FinalProjectTests.swift */,
+				9AFE7A8B2EE93D6F0049CB65 /* TaskTellerTests.swift */,
 			);
-			path = TAC342_FinalProjectTests;
+			path = TaskTellerTests;
 			sourceTree = "<group>";
 		};
-		9AFE7A942EE93D6F0049CB65 /* TAC342_FinalProjectUITests */ = {
+		9AFE7A942EE93D6F0049CB65 /* TaskTellerUITests */ = {
 			isa = PBXGroup;
 			children = (
-				9AFE7A952EE93D6F0049CB65 /* TAC342_FinalProjectUITests.swift */,
-				9AFE7A972EE93D6F0049CB65 /* TAC342_FinalProjectUITestsLaunchTests.swift */,
+				9AFE7A952EE93D6F0049CB65 /* TaskTellerUITests.swift */,
+				9AFE7A972EE93D6F0049CB65 /* TaskTellerUITestsLaunchTests.swift */,
 			);
-			path = TAC342_FinalProjectUITests;
+			path = TaskTellerUITests;
 			sourceTree = "<group>";
 		};
 		9AFE7B252EE9513B0049CB65 /* ViewModels */ = {
@@ -253,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9AFE7A762EE93D6D0049CB65 /* TAC342_FinalProject */ = {
+		9AFE7A762EE93D6D0049CB65 /* TaskTeller */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9AFE7A9B2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProject" */;
+			buildConfigurationList = 9AFE7A9B2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTeller" */;
 			buildPhases = (
 				9AFE7A732EE93D6D0049CB65 /* Sources */,
 				9AFE7A742EE93D6D0049CB65 /* Frameworks */,
@@ -265,19 +265,19 @@
 			);
 			dependencies = (
 			);
-			name = TAC342_FinalProject;
+			name = TaskTeller;
 			packageProductDependencies = (
 				9AFE7ABC2EE94B9C0049CB65 /* FirebaseAuth */,
 				9AFE7ABE2EE94B9C0049CB65 /* FirebaseDatabase */,
 				9AFE7AC02EE94B9C0049CB65 /* FirebaseFirestore */,
 			);
-			productName = TAC342_FinalProject;
-			productReference = 9AFE7A772EE93D6D0049CB65 /* TAC342_FinalProject.app */;
+			productName = TaskTeller;
+			productReference = 9AFE7A772EE93D6D0049CB65 /* TaskTeller.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9AFE7A862EE93D6F0049CB65 /* TAC342_FinalProjectTests */ = {
+		9AFE7A862EE93D6F0049CB65 /* TaskTellerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9AFE7A9E2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProjectTests" */;
+			buildConfigurationList = 9AFE7A9E2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTellerTests" */;
 			buildPhases = (
 				9AFE7A832EE93D6F0049CB65 /* Sources */,
 				9AFE7A842EE93D6F0049CB65 /* Frameworks */,
@@ -288,14 +288,14 @@
 			dependencies = (
 				9AFE7A892EE93D6F0049CB65 /* PBXTargetDependency */,
 			);
-			name = TAC342_FinalProjectTests;
-			productName = TAC342_FinalProjectTests;
-			productReference = 9AFE7A872EE93D6F0049CB65 /* TAC342_FinalProjectTests.xctest */;
+			name = TaskTellerTests;
+			productName = TaskTellerTests;
+			productReference = 9AFE7A872EE93D6F0049CB65 /* TaskTellerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9AFE7A902EE93D6F0049CB65 /* TAC342_FinalProjectUITests */ = {
+		9AFE7A902EE93D6F0049CB65 /* TaskTellerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9AFE7AA12EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProjectUITests" */;
+			buildConfigurationList = 9AFE7AA12EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTellerUITests" */;
 			buildPhases = (
 				9AFE7A8D2EE93D6F0049CB65 /* Sources */,
 				9AFE7A8E2EE93D6F0049CB65 /* Frameworks */,
@@ -306,9 +306,9 @@
 			dependencies = (
 				9AFE7A932EE93D6F0049CB65 /* PBXTargetDependency */,
 			);
-			name = TAC342_FinalProjectUITests;
-			productName = TAC342_FinalProjectUITests;
-			productReference = 9AFE7A912EE93D6F0049CB65 /* TAC342_FinalProjectUITests.xctest */;
+			name = TaskTellerUITests;
+			productName = TaskTellerUITests;
+			productReference = 9AFE7A912EE93D6F0049CB65 /* TaskTellerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -334,7 +334,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9AFE7A722EE93D6D0049CB65 /* Build configuration list for PBXProject "TAC342_FinalProject" */;
+			buildConfigurationList = 9AFE7A722EE93D6D0049CB65 /* Build configuration list for PBXProject "TaskTeller" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -350,9 +350,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9AFE7A762EE93D6D0049CB65 /* TAC342_FinalProject */,
-				9AFE7A862EE93D6F0049CB65 /* TAC342_FinalProjectTests */,
-				9AFE7A902EE93D6F0049CB65 /* TAC342_FinalProjectUITests */,
+				9AFE7A762EE93D6D0049CB65 /* TaskTeller */,
+				9AFE7A862EE93D6F0049CB65 /* TaskTellerTests */,
+				9AFE7A902EE93D6F0049CB65 /* TaskTellerUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -393,7 +393,7 @@
 				9AFE7B472EE9513B0049CB65 /* VoiceInputViewModel.swift in Sources */,
 				9AFE7B4A2EE9513B0049CB65 /* Task.swift in Sources */,
 				9AFE7B4F2EE9513B0049CB65 /* LoginView.swift in Sources */,
-				9AFE7A7B2EE93D6D0049CB65 /* TAC342_FinalProjectApp.swift in Sources */,
+				9AFE7A7B2EE93D6D0049CB65 /* TaskTellerApp.swift in Sources */,
 				9AFE7B492EE9513B0049CB65 /* ParsedTask.swift in Sources */,
 				9AFE7B552EE9513B0049CB65 /* TaskRepository.swift in Sources */,
 				9AFE7B572EE9513B0049CB65 /* FirebaseAuthService.swift in Sources */,
@@ -422,7 +422,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9AFE7A8C2EE93D6F0049CB65 /* TAC342_FinalProjectTests.swift in Sources */,
+				9AFE7A8C2EE93D6F0049CB65 /* TaskTellerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,8 +430,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9AFE7A982EE93D6F0049CB65 /* TAC342_FinalProjectUITestsLaunchTests.swift in Sources */,
-				9AFE7A962EE93D6F0049CB65 /* TAC342_FinalProjectUITests.swift in Sources */,
+				9AFE7A982EE93D6F0049CB65 /* TaskTellerUITestsLaunchTests.swift in Sources */,
+				9AFE7A962EE93D6F0049CB65 /* TaskTellerUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,12 +440,12 @@
 /* Begin PBXTargetDependency section */
 		9AFE7A892EE93D6F0049CB65 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9AFE7A762EE93D6D0049CB65 /* TAC342_FinalProject */;
+			target = 9AFE7A762EE93D6D0049CB65 /* TaskTeller */;
 			targetProxy = 9AFE7A882EE93D6F0049CB65 /* PBXContainerItemProxy */;
 		};
 		9AFE7A932EE93D6F0049CB65 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9AFE7A762EE93D6D0049CB65 /* TAC342_FinalProject */;
+			target = 9AFE7A762EE93D6D0049CB65 /* TaskTeller */;
 			targetProxy = 9AFE7A922EE93D6F0049CB65 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -580,7 +580,7 @@
 				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "TAC342-FinalProject-Info.plist";
+				INFOPLIST_FILE = "TaskTeller-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = TaskTeller;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSCalendarsUsageDescription = "TaskTeller needs calendar access to show your events and add tasks to your calendar.";
@@ -596,7 +596,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProject";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -614,7 +614,7 @@
 				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "TAC342-FinalProject-Info.plist";
+				INFOPLIST_FILE = "TaskTeller-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = TaskTeller;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSCalendarsUsageDescription = "TaskTeller needs calendar access to show your events and add tasks to your calendar.";
@@ -630,7 +630,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProject";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -648,12 +648,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.appTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TAC342_FinalProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TAC342_FinalProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaskTeller.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TaskTeller";
 			};
 			name = Debug;
 		};
@@ -667,12 +667,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.appTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TAC342_FinalProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TAC342_FinalProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaskTeller.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TaskTeller";
 			};
 			name = Release;
 		};
@@ -684,12 +684,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.appUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TAC342_FinalProject;
+				TEST_TARGET_NAME = TaskTeller;
 			};
 			name = Debug;
 		};
@@ -701,19 +701,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.usc.TAC342-FinalProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.taskteller.appUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TAC342_FinalProject;
+				TEST_TARGET_NAME = TaskTeller;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9AFE7A722EE93D6D0049CB65 /* Build configuration list for PBXProject "TAC342_FinalProject" */ = {
+		9AFE7A722EE93D6D0049CB65 /* Build configuration list for PBXProject "TaskTeller" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AFE7A992EE93D6F0049CB65 /* Debug */,
@@ -722,7 +722,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9AFE7A9B2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProject" */ = {
+		9AFE7A9B2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTeller" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AFE7A9C2EE93D6F0049CB65 /* Debug */,
@@ -731,7 +731,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9AFE7A9E2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProjectTests" */ = {
+		9AFE7A9E2EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTellerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AFE7A9F2EE93D6F0049CB65 /* Debug */,
@@ -740,7 +740,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9AFE7AA12EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TAC342_FinalProjectUITests" */ = {
+		9AFE7AA12EE93D6F0049CB65 /* Build configuration list for PBXNativeTarget "TaskTellerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AFE7AA22EE93D6F0049CB65 /* Debug */,

@@ -1,14 +1,14 @@
 //
-//  TAC342_FinalProjectTests.swift
-//  TAC342_FinalProjectTests
+//  TaskTellerTests.swift
+//  TaskTellerTests
 //
 //  Created by 魏宏宇 on 12/9/25.
 //
 
 import XCTest
-@testable import TAC342_FinalProject
+@testable import TaskTeller
 
-final class TAC342_FinalProjectTests: XCTestCase {
+final class TaskTellerTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
